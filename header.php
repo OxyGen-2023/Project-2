@@ -8,7 +8,7 @@
 	<title></title>
 	<a href="logout.php" class="rightSide paddingRightOnly">Logout</a>
 
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
 
