@@ -1,4 +1,4 @@
-<?php session-start(); ?> 
+<!-- when i add <?php session-start(); ?> it doesn't work -->
 
 <!DOCTYPE html>
 <html>
